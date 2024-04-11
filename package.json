@@ -1,17 +1,16 @@
 {
-  "name": "edabit",
+  "name": "edabitsolutions",
   "version": "1.0.0",
-  "main": "buggyCode1.js",
+  "description": "",
+  "main": "indexOf2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon buggyCode1.js"
+    "start": "nodemon indexOf2.js"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^3.1.0"
-  },
-  "devDependencies": {},
-  "keywords": [],
-  "description": ""
+  }
 }

@@ -2,10 +2,10 @@
   "name": "edabitsolutions",
   "version": "1.0.0",
   "description": "",
-  "main": "indexOf2.js",
+  "main": "nodemon.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon indexOf2.js"
+    "start": "nodemon nodemon.js"
   },
   "keywords": [],
   "author": "",

@@ -8,7 +8,6 @@ function lessThanOrEqualToZero(num) {
   
       return false
     }
-    return num
   }
   console.log(lessThanOrEqualToZero(5))
   console.log(lessThanOrEqualToZero(0))
